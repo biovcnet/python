@@ -45,7 +45,7 @@ The text output of this program to the console is called **standard output**
 <img align="left" src="/Lesson1/images/L1img4.png" width="900px" style="padding-right: 15px">
 
 Notice that your console will start to get crowded.
-To clear a selection of text from your console, select with your cursor. Then go to 'Edit > Clear Console Cells'
+To clear a selection of text from your console, select with your cursor. Then go to `Edit > Clear Console Cells`
 
 To exit the notebook, simply x out the browser window. Although it is not applicable for this lesson, note there are several
-options for saving your work in the 'File' menu
+options for saving your work in the `File` menu
