@@ -1,6 +1,6 @@
 # Hands-on Tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/python/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/pythonBinderContent/master?urlpath=lab)
 
 Exploring the features of Binder, running a simple script, and typing python commands in a terminal environment
 
