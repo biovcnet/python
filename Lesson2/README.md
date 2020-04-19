@@ -79,7 +79,7 @@ In the text editor, do the following in this order:
 + set newString to all uppercase letters
 + set newString to all lowercase letters
 + remove any occurrences of the character `y` at the trailing ends of the string
-+ break up the string along occurrences of the space character ` `
++ break up the string along occurrences of the `space character`
 
 
 
