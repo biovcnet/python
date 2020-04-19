@@ -64,7 +64,13 @@ Look at the console, and we can see that `y` now prints as 6.0 because it is `cl
 
 Python strings can be manipulated by several built-in functions. The most common are `strip`,`lower`,`upper`,`replace`, and `split`
 
-Before we continue, check that **y is set as str** in your console 
+Before we continue, double check that **y is set as str** in your console by running the command `print(y(type))`
+
+We are first going to *concatenate* y with another string- combine into into one string. Strings can be concatenated using a `+`
+
+In your notebook, set a variable `newString` as `'y is '+y`
+
+
 
 
 
