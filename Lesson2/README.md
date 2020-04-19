@@ -37,7 +37,7 @@ In the first line, a *variable* `y` is set as the integer, 6. Python will automa
 
 The second line uses the python function `print` to show the variable in standard output and the datatype
 
-Run the code to see this
+Run the code to see standard output.
 
 In the text editor:
 
