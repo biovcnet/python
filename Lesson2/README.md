@@ -64,6 +64,10 @@ Look at the console, and we can see that `y` now prints as 6.0 because it is `cl
 
 Python strings can be manipulated by several built-in functions. The most common are `strip`,`lower`,`upper`,`replace`, and `split`
 
+These built in functions are used in the format `theString.function()`
+
+Sometimes, as in the `strip`, `replace`, and `strip`, the user specifies the characters inside the `()`
+
 Technical note on `strip`: it only strips the string of the *leading* and *trailing* characters specified.
 
 Before we continue, double check that **y is set as str** in your console by running the command `print(y(type))`
@@ -76,7 +80,7 @@ Let's now let's set newString to an altered version of itself using the built in
 
 In the text editor, do the following in this order:
 
-+ set newString to all uppercase letters and print
++ set newString to all uppercase letters and print 
 + set newString to all lowercase letters and print
 + remove any occurrences of the character `y` at the trailing ends of the string and print
 + break up the string along occurrences of the `space character` print
