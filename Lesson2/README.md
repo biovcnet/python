@@ -64,11 +64,24 @@ Look at the console, and we can see that `y` now prints as 6.0 because it is `cl
 
 Python strings can be manipulated by several built-in functions. The most common are `strip`,`lower`,`upper`,`replace`, and `split`
 
+Technical note on `strip`: it only strips the string of the *leading* and *trailing* characters specified.
+
 Before we continue, double check that **y is set as str** in your console by running the command `print(y(type))`
 
 We are first going to *concatenate* y with another string- combine into into one string. Strings can be concatenated using a `+`
 
 In your notebook, set a variable `newString` as `'y is '+y`
+
+Let's now let's set newString to an altered version of itself using the built in functions.
+
+In the text editor, do the following in this order:
+
+-set newString to all uppercase letters
+-set newString to all lowercase letters
+-remove any occurrences of the character `y` at the trailing ends of the string
+-break up the string along occurrences of the space character ` `
+
+
 
 
 
