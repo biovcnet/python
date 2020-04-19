@@ -83,6 +83,7 @@ In the text editor, do the following in this order:
 + set newString to all uppercase letters and print 
 + set newString to all lowercase letters and print
 + remove any occurrences of the character `y` at the trailing ends of the string and print
++ replace the space now at the beginning of newString with `y` and print
 + break up the string along occurrences of the `space character` print
 
 
