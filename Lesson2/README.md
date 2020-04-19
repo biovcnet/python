@@ -76,12 +76,13 @@ Let's now let's set newString to an altered version of itself using the built in
 
 In the text editor, do the following in this order:
 
-+ set newString to all uppercase letters
-+ set newString to all lowercase letters
-+ remove any occurrences of the character `y` at the trailing ends of the string
-+ break up the string along occurrences of the `space character`
++ set newString to all uppercase letters and print
++ set newString to all lowercase letters and print
++ remove any occurrences of the character `y` at the trailing ends of the string and print
++ break up the string along occurrences of the `space character` print
 
 
+<img align="left" src="/Lesson2/Images/L2Im3.png" width="900px" style="padding-right: 15px">
 
 
 
