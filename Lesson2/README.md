@@ -31,6 +31,18 @@ The participant may refer to the following tables as needed:
 | \t            | tab                 |
 | \b            | backspace           |
 
+**TABLE III**: Python string functions
+
+| function      | format                                 |
+| ------------- |:-------------------------------------: |
+| .upper        | myString.upper()                       |
+| .lower        | myString.lower()                       |
+| .strip        | myString.strip(string)                 |
+| .replace      | myString.replace(original,replacement) |
+| .split        | myString.split(string)                 |
+
+
+
 
 ## Setting and determining datatypes of variables
 
@@ -64,9 +76,7 @@ Look at the console, and we can see that `y` now prints as 6.0 because it is `cl
 
 Python strings can be manipulated by several built-in functions. The most common are `strip`,`lower`,`upper`,`replace`, and `split`
 
-These built in functions are used in the format `theString.function()`
-
-Sometimes, as in the `strip`, `replace`, and `strip`, the user specifies the characters inside the `()`
+These built in functions are used in the format `theString.function()`. Specifics are in **Table III**
 
 Technical note on `strip`: it only strips the string of the *leading* and *trailing* characters specified.
 
