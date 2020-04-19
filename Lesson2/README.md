@@ -46,6 +46,6 @@ Notice that the print statement prints the integer 6, which 'y' is now set to, a
 
 In the text editor:
 
-retype the function below to set the variable using each python method in the *python function* column of **Table I**. The print statement remain the same.
+retype the the variable declaration and the print function below to set the variable using each python method in the *python function* column of **Table I**. The print statement remain the same.
 
 This means you should have 12 new lines of code.
