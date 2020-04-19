@@ -37,7 +37,7 @@ In the first line, a *variable* `y` is set as the integer, 6. Python will automa
 
 The second line uses the python function `print` to show the variable in standard output and the datatype
 
-Run the code to see standard output.
+Run the code to see standard output. For instructions on launching console and running code selections, see [Tutorial 1](https://github.com/biovcnet/python/tree/master/Lesson1)
 
 In the text editor:
 
