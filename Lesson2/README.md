@@ -41,6 +41,11 @@ Run the code to see standard output. For instructions on launching console and r
 
 <img align="left" src="/Lesson2/Images/L2Im1.png" width="900px" style="padding-right: 15px">
 
+Notice that the print statement prints the integer 6, which 'y' is now set to, and the datatype- class int
+
+
 In the text editor:
 
-repeat the function to set the variable as each datatype in **Table I**. The print statement remain the same.
+retype the function below to set the variable using each python method in the *python function* column of **Table I**. The print statement remain the same.
+
+This means you should have 12 new lines of code.
