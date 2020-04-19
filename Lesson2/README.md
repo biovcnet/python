@@ -33,7 +33,7 @@ The participant may refer to the following tables as needed:
 
 The pre-written code contains only two lines
 
-In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input. 
+In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input if the datatype is not explicitly set. 
 
 The second line uses the python function `print` to show the variable in standard output and the datatype
 
