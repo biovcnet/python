@@ -47,7 +47,7 @@ Notice that the print statement prints the integer 6, which `y` is now set to, a
 In the text editor:
 
 retype the the variable declaration and the print function below to set the variable using each python method in the *python function* column of **Table I**. The print statement remain the same, but must be repeated each time the variable is reset,
-because y is no longer the same.
+because y is no longer the same. You may do this in any order you like as long as the **last time the variable is set as a string**. This is required for the next exercise.
 
 Let's do one together!
 
