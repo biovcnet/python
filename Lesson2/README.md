@@ -30,3 +30,9 @@ The participant may refer to the following tables as needed:
 | \r            | carriage return     |
 | \t            | tab                 |
 | \b            | backspace           |
+
+The pre-written code contains only two lines
+
+In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input. 
+
+The second line uses the python function `print` to show the variable in standard output
