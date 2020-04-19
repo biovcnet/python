@@ -31,6 +31,9 @@ The participant may refer to the following tables as needed:
 | \t            | tab                 |
 | \b            | backspace           |
 
+
+## Setting and determining datatypes of variables
+
 The pre-written code contains only two lines
 
 In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input if the datatype is not explicitly set. 
@@ -56,3 +59,9 @@ Let's do one together!
 Here, under the original code, i have set the variable `y` to be the datatype `float`
 
 Look at the console, and we can see that `y` now prints as 6.0 because it is `class float`
+
+## string manipulation
+
+Python strings can be manipulated by several built-in functions. The most common are `strip`,`lower`,`upper`,`replace`, and `split`
+
+
