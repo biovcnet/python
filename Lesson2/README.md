@@ -66,11 +66,12 @@ because y is no longer the same. You may do this in any order you like as long a
 
 Let's do one together!
 
-<img align="left" src="/Lesson2/Images/L2Im2.png" width="900px" style="padding-right: 15px">
-
 Here, under the original code, i have set the variable `y` to be the datatype `float`
 
 Look at the console, and we can see that `y` now prints as 6.0 because it is `class float`
+
+<img align="left" src="/Lesson2/Images/L2Im2.png" width="900px" style="padding-right: 15px">
+
 
 ## string manipulation
 
