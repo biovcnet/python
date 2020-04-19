@@ -41,7 +41,7 @@ Run the code to see standard output. For instructions on launching console and r
 
 <img align="left" src="/Lesson2/Images/L2Im1.png" width="900px" style="padding-right: 15px">
 
-Notice that the print statement prints the integer 6, which 'y' is now set to, and the datatype- class int
+Notice that the print statement prints the integer 6, which `y` is now set to, and the datatype- `class int`
 
 
 In the text editor:
@@ -49,3 +49,10 @@ In the text editor:
 retype the the variable declaration and the print function below to set the variable using each python method in the *python function* column of **Table I**. The print statement remain the same, but must be repeated each time the variable is reset,
 because y is no longer the same.
 
+Let's do one together!
+
+<img align="left" src="/Lesson2/Images/L2Im2.png" width="900px" style="padding-right: 15px">
+
+Here, under the original code, i have set the variable `y` to be the datatype `float`
+
+Look at the console, and we can see that `y` now prints as 6.0 because it is `class float`
