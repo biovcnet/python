@@ -39,6 +39,8 @@ The second line uses the python function `print` to show the variable in standar
 
 Run the code to see standard output. For instructions on launching console and running code selections, see [Tutorial 1](https://github.com/biovcnet/python/tree/master/Lesson1)
 
+<img align="left" src="/Lesson2/Images/L2Im1.png" width="900px" style="padding-right: 15px">
+
 In the text editor:
 
 repeat the function to set the variable as each datatype in **Table I**. The print statement remain the same.
