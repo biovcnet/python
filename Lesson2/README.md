@@ -100,6 +100,15 @@ In the text editor, do the following in this order:
 
 <img align="left" src="/Lesson2/Images/L2Im3.png" width="900px" style="padding-right: 15px">
 
+While manipulating strings in python, there are special characters that the user needs to be aware of. These *escape characters* are listed in **Table II**
+
+An *escape character* is a character or combination of characters that tells python to encode a format. 
+
+For example, the `\n` escape character tells python to break the string and start a new line. 
+
+We will concatenate two strings with the escape characters listed in **Table II** in a print statement. 
+
+
 
 
 
