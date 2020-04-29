@@ -46,9 +46,9 @@ The participant may refer to the following tables as needed:
 
 ## Setting and determining datatypes of variables
 
-The pre-written code contains only two lines
+The pre-written code contains only small sections.
 
-In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input if the datatype is not explicitly set. 
+The first section is for all exercises except escape characters. In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input if the datatype is not explicitly set. 
 
 The second line uses the python function `print` to show the variable in standard output and the datatype
 
@@ -104,11 +104,19 @@ While manipulating strings in python, there are special characters that the user
 
 An *escape character* is a character or combination of characters that tells python to encode a format. 
 
-For example, the `\n` escape character tells python to break the string and start a new line. 
+For example, the `\n` escape character tells python to start a new line. 
 
-We will concatenate two strings with the escape characters listed in **Table II** in a print statement. 
+We will print two concatenated strings, `string1` and `string2`.`string1` will contain the escape characters listed in **Table II**. 
 
+Run the cells under the section `#escape character exercises` to set `string1` and `string2` and print them as one concatenated string. `string1` already contains the first escape character in **Table II** as an example. 
 
+Notice that to print the escape character, it is enclosed in r" ". This runs a python function repr() which stops the escape character from doing its job within the string.
+
+<img align="left" src="/Lesson2/Images/L2Im4.png" width="900px" style="padding-right: 15px">
+
+In this example, the escape character \' formats encodes a single quote character. 
+
+Modify `string1` and `string2` to contain different escape characters in **Table II** and see what this does to the print statemnt. 
 
 
 
