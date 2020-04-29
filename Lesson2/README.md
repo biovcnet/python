@@ -5,6 +5,8 @@
 In this tutorial, the participant will learn how to set and determine the datatype of a variable using python methods,
 and apply some of the built-in python string functions to manipulate the way that text is displayed in print statements. 
 
+You can choose to do this tutorial as a Notebook, which contains content and code, or to do this in a python only form. When the badge is launched, both will be available in the directory on the left-hand side (.ipyn and .py, respectively). If you choose to use the notebook, this document only needs to be referred to for the tables. If you would rather work only in python, refer to this document for all instructions.
+
 The participant may refer to the following tables as needed:
 
 **TABLE I**: DataTypes and corresponding python methods
