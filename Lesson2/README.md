@@ -48,7 +48,7 @@ The participant may refer to the following tables as needed:
 
 ## Setting and determining datatypes of variables
 
-The pre-written code contains only small sections.
+The pre-written code contains only two small sections.
 
 The first section is for all exercises except escape characters. In the first line, a *variable* `y` is set as the integer, 6. Python will automatically classify the variable's datatype based on the user's input if the datatype is not explicitly set. 
 
