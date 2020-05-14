@@ -1,4 +1,4 @@
-# Manipulating .fasta plain text files #
+# Manipulating FASTA plain text files #
 
 ## What is a FASTA file? ##
 A FASTA file is one of the most common text files used in bioinformatics across all platforms. 
