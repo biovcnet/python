@@ -25,7 +25,7 @@ The header of each entry is found after the `>` and is separated from the associ
 * The start and stop positions reference the beginning and end of the aligned sequences relative to *e. coli* 16S rRNA positions
 
 # Exercise #
-We will be working with an aligned `fasta with gaps` formatted fasta file of *Vibrio* 16S rRNA sequences. We will remove duplicate accession numbers and save a new fasta file with only unique entries. Accessions can appear twice, for example, if multiple rRNA regions are matched to the same accession. 
+We will be working with an aligned `fasta with gaps` formatted fasta file of *Vibrio* 16S rRNA sequences. We will remove duplicate accession numbers and save a new fasta file with only unique entries. Accessions can appear multiple times, for example, if multiple rRNA regions are matched to the same accession. 
 
 The content is available at:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/pythonL4LiveDemo/master?urlpath=lab)
