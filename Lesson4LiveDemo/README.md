@@ -8,7 +8,7 @@ The .fasta extention standards for 'fast-all'
 For this exercise, we will be working with a .fasta file of 16S rRNA sequences from SILVA. 
 FASTA files from SILVA can be downloaded:
 
-* aligned (with gaps). This means that missing bases (indicated with a `.`) and insertions or deletions (indicated with a `-`) are included in the text. This format is useful if you want to directly compare sequences to one another
+* aligned (with gaps). This means that missing bases (indicated with a `.`) and gaps (indicated with a `-`) are included in the text. This format is useful if you want to directly compare sequences to one another
 
 * with gaps common to all sequences removed (common gaps)
 
