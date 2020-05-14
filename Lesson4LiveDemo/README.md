@@ -1,4 +1,4 @@
-#manipulating .fasta plain text files
+##Manipulating .fasta plain text files
 
 A FASTA file is one of the most common text files used in bioinformatics across all platforms. 
 It is a plain-text file of single-letter nucleotide sequences or amino acid sequences. 
