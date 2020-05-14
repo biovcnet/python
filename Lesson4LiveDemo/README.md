@@ -28,5 +28,5 @@ The header of each entry is found after the `>` and is separated from the associ
 We will be working with an aligned `fasta with gaps` formatted fasta file of *Vibrio* 16S rRNA sequences. First, we will remove duplicate accession numbers. Accessions can appear twice, for example, if multiple rRNA regions are matched to the same accession. Secondly, we will create a table from a FASTA file including information like Accession number, start position, and stop positions.
 
 The content is available at:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/pythonL4LiveDemo/master?urlpath=lab)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/pythonL4LiveDemo/master)
