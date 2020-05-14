@@ -8,7 +8,7 @@ The .fasta extention standards for 'fast-all'
 For this exercise, we will be working with a .fasta file of 16S rRNA sequences from SILVA. 
 FASTA files from SILVA can be downloaded:
 
-* aligned (with gaps). This means that missing bases (indicated with a `.`) and insertions or deletions (indicataed with a `-`) are included in the text. This format is useful if you want to directly compare sequences to one another
+* aligned (with gaps). This means that missing bases (indicated with a `.`) and insertions or deletions (indicated with a `-`) are included in the text. This format is useful if you want to directly compare sequences to one another
 
 * with gaps common to all sequences removed (common gaps)
 
@@ -22,7 +22,7 @@ Each entry in the FASTA file begins with a `>` . Entries consist of a header and
 The header of each entry is found after the `>` and is separated from the associated sequence with the newline character `\n`. The header is formatted `accession_number.start_position.end_position (Taxonomy sequence of varying length/specificity)` :
 
 * The accession number is a unique alphanumeric ID referencing where it is stored in NCBI GenBank
-* The start and stop positions reference the beginning and end of the aligned sequences relative to `e. coli` 16S rRNA positions
+* The start and stop positions reference the beginning and end of the aligned sequences relative to *e. coli* 16S rRNA positions
 
 # Exercise #
-We will be working with an aligned `fasta with gaps` formatted fasta file of `Vibrio` 16S rRNA sequences. First, we will remove duplicate accession numbers. Accessions can appear twice, for example, if multiple rRNA regions are matched to the same accession. Secondly, we will create a table from a FASTA file including information like Accession number, start position, and stop positions.
+We will be working with an aligned `fasta with gaps` formatted fasta file of *Vibrio* 16S rRNA sequences. First, we will remove duplicate accession numbers. Accessions can appear twice, for example, if multiple rRNA regions are matched to the same accession. Secondly, we will create a table from a FASTA file including information like Accession number, start position, and stop positions.
