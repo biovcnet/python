@@ -1,6 +1,6 @@
 # Python Pandas 
 
-<img align="right" src="/Lesson7Pandas/Images/panda.jpg" width="300px" style="padding-right: 15px">
+<img align="right" src="/Lesson7Pandas/Images/panda.jpg" width="250px" style="padding-right: 15px">
 
 ## What is Pandas (Python Data Analysis library)?
 
