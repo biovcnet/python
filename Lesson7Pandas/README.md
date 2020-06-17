@@ -6,4 +6,6 @@
 
 A library developed for handling multi-dimensional data sets, which are stored as DataFrame python objects
 
-Lots of built-in functions developed for sorting, filtering and cleaning large, complex datasets 
+Lots of built-in functions developed for sorting, filtering and cleaning large, complex data sets 
+
+DataFrames are still compatible with other python library functions
