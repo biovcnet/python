@@ -9,4 +9,6 @@
 
 * Lots of built-in functions developed for sorting, filtering and cleaning large, complex data sets 
 
+* HUGE time saver! Can sometimes do in 1-2 lines of code what normally would require a whole loop of code
+
 * DataFrames are still compatible with other python library functions
