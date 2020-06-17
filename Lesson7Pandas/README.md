@@ -12,3 +12,11 @@
 * HUGE time saver! Can sometimes do in 1-2 lines of code what normally would require a whole loop of code
 
 * DataFrames are still compatible with other python library functions
+
+## The DataFrame Structure
+
+Pandas DataFrames are organized in to rows and columns, much like a Numbers or Excel spreadsheet. 
+
+The rows and columns can be referred to by their python zero-based indices, or by their unique text identifiers (column names for columns, and user-defined indexes for rows). 
+
+If the user does not specify a data column to use as indices for rows, Pandas will assign the numerical indices.
