@@ -23,6 +23,6 @@ The rows and columns can be referred to by their python zero-based indices, or b
 
 If the user does not specify a data column to use as indices for rows or does not have column headers, Pandas will assign the numerical indices.
 
-Let's take a look at the DataFrame structure and some of the built-in functions:
+Let's take a look at the DataFrame structure and basic DataFrame manipulation:
 
-(notebook link)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/topic-python-Lesson-7-BinderContent/master?urlpath=lab)
