@@ -13,7 +13,7 @@
 
 * DataFrames are still compatible with other python library functions
 
-* Lists and libraries that been sorted or manipulated in parallel can be combined into a DataFrame
+* Lists and libraries that have been sorted or manipulated in parallel can be combined into a DataFrame
 
 ## The DataFrame Structure
 
