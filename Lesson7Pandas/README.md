@@ -19,4 +19,4 @@ Pandas DataFrames are organized in to rows and columns, much like a Numbers or E
 
 The rows and columns can be referred to by their python zero-based indices, or by their user-defined identifiers (column names for columns and indices for rows). 
 
-If the user does not specify a data column to use as indices for rows, Pandas will assign the numerical indices.
+If the user does not specify a data column to use as indices for rows or does not have column headers, Pandas will assign the numerical indices.
