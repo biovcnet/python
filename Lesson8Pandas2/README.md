@@ -7,6 +7,6 @@ In the below-linked python notebook, we will import an OTU table and a metadata 
 - clean up the metadata table (get rid of entries that are not in the OTU table)
 - clean up the OTU table
 - filter the OTU table to retain only photoautotrophs (in Fayetteville Green Lake, these include Purple and Green Sulfur Bacteria and Cyanobacteria)
-- Examine the abundances and water column (depth) distributions of the photoautotrophs in relationship to relevant metadata 
+- Examine the abundances of the photoautotrophs in relationship to relevant binned (categorical) metadata 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biovcnet/topic-python-Lesson8-bindercontent/master)
