@@ -1,6 +1,6 @@
 ## Python Lesson 8: Pandas, Part 2
 
-Now that we have established the basic syntax and usage of python pandas, we are going to move on to a more practical example of how pandas is used in bioinformatics. Along the way, I will also introduce some of the more advanced pandas functions
+Now that we have established the basic syntax and usage of python pandas, we are going to move on to a more practical example of how pandas is used in bioinformatics. Along the way, I will also introduce some of the more advanced pandas functions, such as multi-index slicing and `.groupby` 
 
 In the below-linked python notebook, we will import an OTU table and a metadata table from my own field work at Fayetteville Green Lake, NY. The tasks will be:
 
