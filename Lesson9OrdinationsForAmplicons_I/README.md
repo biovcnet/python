@@ -11,11 +11,18 @@ Metrics are used in bioinformatics to broadly answer:
 
 There are many Alpha and Beta diversity metrics, and it can sometimes be confusing or difficult to determine which is the correct to use to answer your specific research questions.
 
-In this lesson we will be focused on **beta Diversity**. The most commonly used beta diversity metrics include:
+In this lesson we will be focused on **beta Diversity** metrics that do not require using a phylogenetic tree. 
+
+These include:
 
 - ***Bray–Curtis dissimilarity***:
-  - The Bray-Curtis dissimilarity between two samples takes the relative abundances of species into account
-  - Ranges from 0 to 1, with 0 meaning the two samples are exactly alike, and 1 meaning they are completely different
+  - Takes the relative abundances of species in each sample into account
+  - Ranges from 0 to 1
+  - 0 means the relative abundances of species of each of the two samples are exactly alike
+  - 1 means the relative abundances of species of each of the two samples are completely different
+  
+- ***Jaccard distance***:
+  - Does not take the relative abundances of species in each sample into account. This means the species abundances are converted to a *binary* format- Present (1) or absent (0).
 
 
 
