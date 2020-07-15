@@ -46,7 +46,7 @@ There are many of these, including (but no limited to):
  
 Often, software will also return a "proportions explained" datatable showing how much of the dataset's variance is captured by each principal component. This guides the user in chosing the appropriate number of dimensions to examine their data. By using some number of principal components, the complexity of the transformed data set is greatly reduced, which helps in searching for meaningful sample clustering when viewed in principal component space. 
 
-In bioinformatics, the Jaccard or Bray-Curtis matrices that have been transformed by a PCoA are often visualized in a three-dimensional plot that is color-coded using metadata tables. The matrices are associated with metadata values by sample ID. This helps the user visually search for any metadata patterns that match the clustering patterns of the transformed data in PCoA space.
+In bioinformatics, the Jaccard or Bray-Curtis matrices that have been transformed by a PCoA are often visualized in a three-dimensional plot that is color-coded using metadata tables. The transformed data points are associated with metadata values by sample ID. This helps the user visually search for any metadata patterns that match the clustering patterns of the transformed data in PCoA space.
  
  
  
