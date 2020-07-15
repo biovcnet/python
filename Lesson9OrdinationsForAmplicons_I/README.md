@@ -42,7 +42,7 @@ There are many of these, including (but no limited to):
  
  In this lesson, will be focused on PCoA. 
  
- In a PCoA, a line is fit to a collection of points (in this case, our Jaccard or Bray-Curtis matrices) that most minimizes the average square distance from any   given point to that line. This vector is the first *principle component*, and corresponds to the greatest variance in the matrix. This process is repeated, with the line being orthogonal to the one before. The results from a PCoA are the *component scores* of the individual data points along that principal component. 
+ In a PCoA, a line is fit to a collection of points (in this case, our Jaccard or Bray-Curtis matrices) that most minimizes the average square distance from any   given point to that line. This vector is the first *principle component*, and corresponds to the greatest variance in the matrix. This process is repeated, with the next line being orthogonal to the one before. The results from a PCoA are the *component scores* of the individual data points along that principal component. 
  
 Often, software will also return a "proportions explained" datatable showing how much of the dataset's variance is captured by each principal component. This guides the user in chosing the appropriate number of dimensions to examine their data. By using some number of principal components, the complexity of the transformed data set is greatly reduced, which helps in searching for meaningful trends or correlations when viewed in principal-component space. 
 
