@@ -27,6 +27,14 @@ These include:
   - Ranges from 0 to 1
   - 0 means that the two samples have exactly the same species
   - 1 means that the two samples have no species in common
+  
+Typically, the Bray-Curtis dissimilarity and/or Jaccard distance is determined for all samples against one another in an OTU table. The resulting two-dimensional dataset is called a distance or dissimilarity `matrix`
+  
+ ### OK, I have a beta diversity matrix. What do I do with it?
+ 
+ Once 
+  
+  
 
 
 
