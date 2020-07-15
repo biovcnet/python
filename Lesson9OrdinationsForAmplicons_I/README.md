@@ -29,10 +29,27 @@ These include:
   - 1 means that the two samples have no species in common
   
 Typically, the Bray-Curtis dissimilarity and/or Jaccard distance is determined for all combinations of samples in an OTU table. The resulting two-dimensional dataset is called a distance or dissimilarity *matrix*
-  
- ### OK, I have a beta diversity matrix. What do I do with it?
+
+### OK, I have a beta diversity matrix. What do I do with it?
  
- Once a distance or dissimilarity matrix is created, it is common to perform some sort of ***Ordination Analysis*** with it. 
+Once a distance or dissimilarity matrix is created, it is common to perform some sort of ***Ordination Analysis*** with it. 
+There are many of these, including (but no limited to): 
+
+ - Principle Coordinates Analysis (PCoA), also know as a multi-dimensional scaling analysis (MDS).
+ - Redundancy Analysis
+ - Correspondence Analysis/Detrended Correspondence Analysis
+ - Canonical Correlation Analysis (CCA)
+ 
+ In this lesson, will be focused on PCoA. 
+ 
+ In a PCoA, a line is fit to a collection of points (in this case, our Jaccard or Bray-Curtis matrices) that most minimizes the average square distance from any   given point to that line. This vector is the first *principle component*. This process is repeated, with the line being orthogonal to the one before. The results from a PCoA are the *component scores* of the individual data points along that principal component. 
+ 
+Often, software will also return a "proportions explained" datatable showing how much of the dataset's variance is captured by each principal component. This guides the user in chosing the appropriate number of dimensions to examine their data. By using some number of principal components, the complexity of the transformed data set is greatly reduced, which helps in searching for meaningful trends or correlations when viewed in principal-component space. 
+
+In bioinformatics, the Jaccard or Bray-Curtis matrices that have been transformed by a PCoA are often visualized in a three-dimensional plot that is color-coded using metadata tables. The matrices are associated with metadata values by sample ID. This helps the user visually search for any metadata patterns that match the clustering patterns of the transformed data in PCoA space.
+ 
+ 
+ 
   
   
 
