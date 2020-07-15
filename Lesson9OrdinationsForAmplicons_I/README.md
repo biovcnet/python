@@ -1,8 +1,8 @@
-### Python Lesson 9: 
+# Python Lesson 9: 
 
 ## Ordinations I - Jaccard and Bray-Curtis Beta Diversity analyses
 
-# What are Alpha and Beta diversity?
+### What are Alpha and Beta diversity?
 
 Metrics are used in bioinformatics to broadly answer:
 
