@@ -11,7 +11,7 @@ Metrics are used in bioinformatics to broadly answer:
 
 There are many Alpha and Beta diversity metrics, and it can sometimes be confusing or difficult to determine which is the correct to use to answer your specific research questions.
 
-In this lesson we will be focused on **beta Diversity** metrics that do not require using a phylogenetic tree. 
+In this lesson we will be focused on **beta diversity** metrics that do not require using a phylogenetic tree. 
 Because alpha diversity metrics also require a phylogenetic tree, the beta diversity metrics requiring one will be addressed during that lesson. 
 
 These include:
