@@ -50,7 +50,7 @@ In bioinformatics, the Jaccard or Bray-Curtis matrices that have been transforme
  
  
 ### This lesson:
-Using the below-lined MyBinder-content, we will:
+Using the below-linked MyBinder-content, we will:
 
 - clean up an OTU table and a categorical metadata table
 - transform the OTU table into a numerical matrix
