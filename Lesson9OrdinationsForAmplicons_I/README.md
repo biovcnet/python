@@ -49,9 +49,15 @@ Often, software will also return a "proportions explained" datatable showing how
 In bioinformatics, the Jaccard or Bray-Curtis matrices that have been transformed by a PCoA are often visualized in a three-dimensional plot that is color-coded using metadata tables. The transformed data points are associated with metadata values by sample ID. This helps the user visually search for any metadata patterns that match the clustering patterns of the transformed data in PCoA space.
  
  
- 
-  
-  
+ ###This lesson:
+Using the below-lined MyBinder-content, we will:
+
+- clean up an OTU table and a categorical metadata table
+- transform the OTU table into a numerical matrix
+- create a Jaccard distance matrix and a Bray-Curtis dissimilarity matrix from the OTU table using the python sci-kit bio library
+- perform a mantel test on the Jaccard and Bray-Curtis matrices to determine if they are significantly correlated
+- perform a PCoA on both matrices
+- visualize the PCoA as three-dimensional plots, using the metadata table to color-code the data points
 
 
 
