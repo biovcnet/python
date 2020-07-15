@@ -6,8 +6,8 @@
 
 Metrics are used in bioinformatics to broadly answer:
 
--how species-rich or species-uniform is a sample -**Alpha Diversity**
--how different is the microbial composition in one environment or sample -**Beta Diversity**
+- how species-rich or species-uniform is a sample -**Alpha Diversity**
+- how different is the microbial composition in one environment or sample -**Beta Diversity**
 
 There are many Alpha and Beta diversity metrics, and it can sometimes be confusing or difficult to determine which is the correct to use to answer your specific research questions.
 
