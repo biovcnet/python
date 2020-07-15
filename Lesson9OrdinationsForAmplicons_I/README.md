@@ -12,6 +12,7 @@ Metrics are used in bioinformatics to broadly answer:
 There are many Alpha and Beta diversity metrics, and it can sometimes be confusing or difficult to determine which is the correct to use to answer your specific research questions.
 
 In this lesson we will be focused on **beta Diversity** metrics that do not require using a phylogenetic tree. 
+Because alpha diversity metrics also require a phylogenetic tree, the beta diversity metrics requiring one will be addressed during that lesson. 
 
 These include:
 
@@ -22,7 +23,10 @@ These include:
   - 1 means the relative abundances of species of each of the two samples are completely different
   
 - ***Jaccard distance***:
-  - Does not take the relative abundances of species in each sample into account. This means the species abundances are converted to a *binary* format- Present (1) or absent (0).
+  - Does not take the relative abundances of species in each sample into account. This means the species abundances in each sample are treated as *binary*- present or absent.
+  - Ranges from 0 to 1
+  - 0 means that the two samples have exactly the same species
+  - 1 means that the two samples have no species in common
 
 
 
