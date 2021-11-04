@@ -7,7 +7,7 @@ Set-up & Binder components for Python Lesson 5
 ## Set-up
 Accessing data from NCBI can sometimes be a pain in the a**. One common problem I run into is downloading genomes from GenBank in a large-scale automated fashion.
 
-(Almost) Daily NCBI produces an update of the current genomes in GenBank. You can download that content through their FTP website - ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/.
+(Almost) Daily NCBI produces an update of the current genomes in GenBank. You can download that content through their FTP website - https://ftp.ncbi.nlm.nih.gov/genomes/genbank/.
 
 The file `assembly_summary_genbank.txt` contains identifiers and the FTP address for all genomes in GenBank. For the version I am currently looking at consists of file that is **212MB** and contains **722,260** genome entries.
 
